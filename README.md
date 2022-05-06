@@ -1,1 +1,1 @@
-# Unity_Panorama_WorldPosLerp
+# Unity_Panoramic_WorldPosLerp
