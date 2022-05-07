@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: 60c63c6251568894ea3e4e70bf0bba52
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AME2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736.8
+        width: 141.66667
+        height: 184.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11216aacc72d7b4e85a1df5fe412e01
+      internalID: -783269837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AME2_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 736.8
+        width: 141.66667
+        height: 184.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e375d9a7a508a4580fdc4d369d6ebb
+      internalID: 638852535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AME2_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 736.8
+        width: 141.66667
+        height: 184.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffd0a9528ca64444a45ba173819de28
+      internalID: 619188733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AME2_3
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 736.8
+        width: 141.66667
+        height: 184.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83903dc48f1b1a4c890407344333384
+      internalID: 1183008650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AME2_4
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 736.8
+        width: 141.66667
+        height: 184.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46649ebcfeca8fd4e9621f71bb8e042c
+      internalID: -1249070826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AME2_5
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 736.8
+        width: 141.66667
+        height: 184.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91af8cf7d409a4b4e9435d80744615e2
+      internalID: -2093954887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AME2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 552.8
+        width: 141.66667
+        height: 184.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f5f026eec4b5c4394d6230c1ac5a01
+      internalID: 2259322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AME2_7
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 552.8
+        width: 141.66667
+        height: 184.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6c41e2c7e67f645bacdba1ce8efe43
+      internalID: 1114233576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AME2_8
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 552.8
+        width: 141.66667
+        height: 184.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8f5c478aba38749b90038c401f94cf
+      internalID: 1080060228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AME2_9
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 552.8
+        width: 141.66667
+        height: 184.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c531515326281a4eae70156072340e8
+      internalID: -729301301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AME2_10
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 552.8
+        width: 141.66667
+        height: 184.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c558de5add2806469b1e773435ecb1d
+      internalID: -2021925388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AME2_11
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 552.8
+        width: 141.66667
+        height: 184.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a108953637d01947aa1e5b2b887e0d0
+      internalID: -73142862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AME2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368.8
+        width: 141.66667
+        height: 184.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc357294b00d204d90b99654668e186
+      internalID: -1527132177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AME2_13
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 368.8
+        width: 141.66667
+        height: 184.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7048ece31090f14c82b94d5190c11a3
+      internalID: -260313284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AME2_14
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 368.8
+        width: 141.66667
+        height: 184.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610be5e92f799c94489f7361377622a6
+      internalID: 1084473963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AME2_15
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 368.8
+        width: 141.66667
+        height: 184.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afdc78b5c714bb4a8bbf30c860ec812
+      internalID: -1230688631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AME2_16
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 368.8
+        width: 141.66667
+        height: 184.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8bf175b836dd549a4d66975d3b1136
+      internalID: -426834335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AME2_17
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 368.8
+        width: 141.66667
+        height: 184.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7464e00ce792a92449467b68cb7efbaa
+      internalID: 1608130701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AME2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184.8
+        width: 141.66667
+        height: 184.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afe66b0f87bef848abb65ec8c280e1b
+      internalID: 1162069517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AME2_19
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 184.8
+        width: 141.66667
+        height: 184.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfaa3f89fee0fcc44bca4b3f230a987f
+      internalID: -616329168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AME2_20
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 184.8
+        width: 141.66667
+        height: 184.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25b1cf89f1a90b41b7c38764d4560aa
+      internalID: -2030425986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AME2_21
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 184.8
+        width: 141.66667
+        height: 184.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7181a505082c243ad8c5404b098353
+      internalID: 34489669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AME2_22
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 184.8
+        width: 141.66667
+        height: 184.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c2ecb21deffe3499e460448cbc6d8a
+      internalID: 1483511941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AME2_23
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 184.8
+        width: 141.66667
+        height: 184.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6104a606044687844be820c6fd32cd0e
+      internalID: 1539468821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AME2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.80000305
+        width: 141.66667
+        height: 184.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff53a0cf9e263e4bab2dfdc1eab7320
+      internalID: 2102393711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AME2_25
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 0.80000305
+        width: 141.66667
+        height: 184.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b60efa21d1bf64c86c87570cc1bf7f
+      internalID: -1889922248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AME2_26
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 0.80000305
+        width: 141.66667
+        height: 184.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc79ebfe469bde4580484bdf5ee8767
+      internalID: -1191434898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AME2_27
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 0.80000305
+        width: 141.66667
+        height: 184.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b38c23074cb5454e8c9b387a96eb625
+      internalID: 1355485724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AME2_28
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 0.80000305
+        width: 141.66667
+        height: 184.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df57244ef20f80549bc2307eae1d00e4
+      internalID: -372107023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AME2_29
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 0.80000305
+        width: 141.66667
+        height: 184.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c3a472909ee2849a813919b49d85c5
+      internalID: -1181172509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9ea67e356f765514bbe0eef31e4fdfa5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AME2_15: -1230688631
+      AME2_18: 1162069517
+      AME2_20: -2030425986
+      AME2_25: -1889922248
+      AME2_4: -1249070826
+      AME2_19: -616329168
+      AME2_29: -1181172509
+      AME2_23: 1539468821
+      AME2_13: -260313284
+      AME2_24: 2102393711
+      AME2_21: 34489669
+      AME2_3: 1183008650
+      AME2_2: 619188733
+      AME2_22: 1483511941
+      AME2_26: -1191434898
+      AME2_28: -372107023
+      AME2_1: 638852535
+      AME2_6: 2259322
+      AME2_14: 1084473963
+      AME2_11: -73142862
+      AME2_27: 1355485724
+      AME2_7: 1114233576
+      AME2_10: -2021925388
+      AME2_8: 1080060228
+      AME2_5: -2093954887
+      AME2_16: -426834335
+      AME2_12: -1527132177
+      AME2_0: -783269837
+      AME2_9: -729301301
+      AME2_17: 1608130701
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

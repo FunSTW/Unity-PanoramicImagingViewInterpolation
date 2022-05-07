@@ -1,4 +1,4 @@
-Shader "Unlit/PanoramaLerpProjection"
+Shader "FunS/PanoramaLerpProjection"
 {
     Properties
     {

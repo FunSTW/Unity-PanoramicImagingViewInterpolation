@@ -9,6 +9,8 @@ public class PanoramicWorldPosLerpSample : MonoBehaviour
     public ReflectionProbe[] reflectionProbes;
     public Material material;
     public Transform cameraTransfrom;
+    public AnimationCurve moveLerpCurve;
+    public AnimationCurve cubemapLerpCurve;
 
     private int current = 0;
     private float lerp = 0;
@@ -74,8 +76,9 @@ public class PanoramicWorldPosLerpSample : MonoBehaviour
             material.SetVector(ShaderIDs.PosB, reflectionProbes[next].transform.position);
             //Lerp(A,B)
             lerp += Time.deltaTime;
-            material.SetFloat(ShaderIDs.Lerp, lerp);
-            cameraTransfrom.position = Vector3.Lerp(reflectionProbes[current].transform.position, reflectionProbes[next].transform.position, lerp);
+            material.SetFloat(ShaderIDs.Lerp, cubemapLerpCurve.Evaluate(lerp));
+
+            cameraTransfrom.position = Vector3.Lerp(reflectionProbes[current].transform.position, reflectionProbes[next].transform.position, moveLerpCurve.Evaluate(lerp));
         }
     }
 }
