@@ -47,7 +47,7 @@ public class PanoramicWorldPosLerpSample : MonoBehaviour
     {
         if (Input.GetMouseButtonDown(0))
         {
-            clickDuration = 0.2f;
+            clickDuration = 0.4f;
             clicking = true;
         }
         if (Input.GetMouseButton(0))
@@ -57,7 +57,7 @@ public class PanoramicWorldPosLerpSample : MonoBehaviour
         if (clicking && Input.GetMouseButtonUp(0))
         {
             clicking = false;
-            if (clickDuration > 0.0f)
+            if (clickDuration < 0.0f)
             {
                 lerp = 0.0f;
                 current++;
