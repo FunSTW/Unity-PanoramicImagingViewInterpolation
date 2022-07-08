@@ -4100,8 +4100,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8990ab7a9c8c6654bb10ed3daec61c8e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sensitivity: 10
+  sensitivity: 200
   maxYAngle: 80
+  dragInertia: 0.6
+  inertiaThreshold: 0.0001
+  zoomSpeed: 2
+  FOVClamp: {x: 20, y: 120}
+  zoomSmooth: 0.1
+  sensitivityMulZoom: 1
 --- !u!81 &520687965
 AudioListener:
   m_ObjectHideFlags: 0
